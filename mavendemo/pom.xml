@@ -9,6 +9,11 @@
 	<packaging>jar</packaging>
 	<name>mavendemo</name>
 	<url>http://maven.apache.org</url>
+
+		<groupId>com.learnmaven</groupId>
+		<artifactId>mavendemo-parent</artifactId>
+		<version>1.0</version>
+
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
